@@ -43,5 +43,4 @@ Actor eliminates locks using message queues.
 
 ---
 
-End of Interview Notes
 

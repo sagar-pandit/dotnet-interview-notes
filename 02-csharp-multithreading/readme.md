@@ -16,6 +16,7 @@ This repository provides **beginner → advanced** learning material on **Multit
 /07-advanced-patterns.md
 /08-refactoring-sync-to-async.md
 /09-interview-questions.md
+/10-unit-testing-concurrency-xUnit-and-real‑world-debugging-stories.md
 ```
 
 ---
@@ -31,7 +32,7 @@ This repository provides **beginner → advanced** learning material on **Multit
 7. [Advanced Concurrency Patterns](07-advanced-patterns.md)
 8. [Refactoring Sync Code to Async](08-refactoring-sync-to-async.md)
 9. [Interview Questions (Crisp Answers)](09-interview-questions.md)
-
+10. [Unit Testing Concurrency (xUnit) & Real‑World Debugging Stories](10-unit-testing-concurrency-xUnit-and-real‑world-debugging-stories.md)
 ---
 
 ## 🎯 What This Repo Focuses On
